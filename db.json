@@ -1,0 +1,20 @@
+{
+  "companyInfo": {
+    "name": "주식회사 팀스파르타",
+    "description": "닉값에 충실한 회사입니다."
+  },
+  "todos": [
+    {
+      "id": "1",
+      "title": "넥스트 과제하기",
+      "content": "과제 완료하기",
+      "isDone": false
+    },
+    {
+      "id": "scQIvHa_WPfIFEdBpUGAP",
+      "title": "12312",
+      "content": "33123",
+      "isDone": false
+    }
+  ]
+}
